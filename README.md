@@ -21,4 +21,4 @@ Solved one assigment for practice as well.
 * Calculated half life of mean-reverting series using OLS. 
 * Calculated hedge ratio using OLS. 
 
-Solved an assigment to practice all these concepts. 
+Solved an assigment(on data provided by mentor) to practice all these concepts. 
