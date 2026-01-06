@@ -11,12 +11,14 @@ Solved one assigment for practice as well.
 ## Week 2: Studied the basics of trading
 
 ### Time Series analysis
-Studied about stationary time series, Different models(AR(auto regressive) , MA(moving average), ARMA).
-Also studied the test for checking stationarity of a time series(ADF(Augmented Dickey-Fuller) test) and how to implement ADF test in python.
-Also studied about Cointegration and a test to check if a pair of two series are cointegrated using the CADF(Cointegrated Augmented Dickey-Fuller test)
+- Studied about stationary time series, Different models(AR(auto regressive) , MA(moving average), ARMA).
+- Also studied the test for checking stationarity of a time series(ADF(Augmented Dickey-Fuller) test) and how to implement ADF test in python.
+- Also studied about Cointegration and a test to check if a pair of two series are cointegrated using the CADF(Cointegrated Augmented Dickey-Fuller test)
 
 ### Regression and OLS
-*Studied about linear regression(Ordinary Least Square) and implemented it in python. 
-*Studied about ADF statistic, p-value, confidence interval(critical values).
-*Calculated half life of mean-reverting series using OLS. 
-*Calculated hedge ratio using OLS. 
+* Studied about linear regression(Ordinary Least Square) and implemented it in python. 
+* Studied about ADF statistic, p-value, confidence interval(critical values).
+* Calculated half life of mean-reverting series using OLS. 
+* Calculated hedge ratio using OLS. 
+
+Solved an assigment to practice all these concepts. 
